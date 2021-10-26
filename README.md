@@ -47,9 +47,11 @@ Data analysis to answer business questions
 5. What is the distribution of ratings like? (use Seaborn) More skewed towards higher/lower 
 values?
 a. How do you explain this?
+
 b. What is the implication of this on your analysis?
 6. What are the top Content Rating values?
 a. Are there any values with very few records?
+
 b. If yes, drop those as they won’t help in the analysis
 7. Effect of size on rating
 a. Make a joinplot to understand the effect of size on rating
